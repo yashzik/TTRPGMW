@@ -146,12 +146,7 @@
       Оформление заказа и оплата означают согласие с условиями, изложенными на данной странице.
     </p>
     
-    <p style="margin-top:12px;">
-      <a href="#" style="color:var(--acc);">Политика обработки персональных данных</a> · 
-      <a href="#" style="color:var(--acc);">Пользовательское соглашение</a>
-    </p>
-    
-    <p style="margin-top:20px; font-size:13px;">© 2025</p>
+  <a href="oferta.docx" style="color:var(--acc);">Публичная оферта</a>
   </footer>
 
 </div>
