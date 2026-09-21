@@ -72,21 +72,21 @@
     
     <div class="service-card">
       <h3>Кампания "Blood Duty"</h3>
-      <p class="desc">Сессия 4 часа. Авторский сценарий, карты, правила. Онлайн или офлайн.</p>
+      <p class="desc">Сессия 4 часа. Авторский сценарий, карты, правила. Онлайн.</p>
       <div class="price">1000 ₽</div>
       <a href="#contact" class="btn">Записаться</a>
     </div>
 
     <div class="service-card">
-      <h3>Кампания Phandelver and Below</h3>
-      <p class="desc">Регулярная игра с постоянным составом, 3–4 часа. Развитие сюжета, персонажей.</p>
+      <h3>Кампания "Phandelver and Below"</h3>
+      <p class="desc">Сессия 4 часа. Официальный сценарий, карты, правила. Онлайн.</p>
       <div class="price">750 ₽</div>
       <a href="#contact" class="btn">Записаться</a>
     </div>
 
     <div class="service-card">
-      <h3>Кампания Icewind Dale</h3>
-      <p class="desc">Индивидуальная сессия 1,5 часа: правила, создание персонажа, механики игры.</p>
+      <h3>Кампания "Icewind Dale"</h3>
+      <p class="desc">Сессия 4 часа. Официальный сценарий, карты, правила. Онлайн.</p>
       <div class="price">750 ₽</div>
       <a href="#contact" class="btn">Записаться</a>
     </div>
@@ -130,6 +130,11 @@
     </p>
     
   <a href="oferta.docx" style="color:var(--acc);">Публичная оферта</a>
+   <p style="margin-top:12px;">
+      <a href="#" style="color:var(--acc);">Политика обработки персональных данных</a> · 
+    </p>
+    
+    <p style="margin-top:20px; font-size:13px;">© 2026</p>
   </footer>
 
 </div>
