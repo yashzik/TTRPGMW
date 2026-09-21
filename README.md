@@ -108,7 +108,7 @@
   <div class="info-block">
     <h3>Порядок оплаты</h3>
     <ul>
-      <li>Оплата производится до начала сессии безналичным переводом по ссылке.</li>
+      <li>Оплата производится после сессии безналичным переводом по ссылке.</li>
       <li>После оплаты автоматически формируется чек в соответствии с ФЗ-422 (налог на профессиональный доход).</li>
       <li>Чек направляется плательщику на указанный e-mail или в мессенджер.</li>
     </ul>
@@ -125,9 +125,8 @@
 
   <div id="contact" class="contact-box">
     <h3>Актуальные контакты</h3>
-    <p><strong>Telegram:</strong> <a href="https://t.me/yourname">@yourname</a></p>
-    <p><strong>E-mail:</strong> <a href="mailto:your@email.com">your@email.com</a></p>
-    <p><strong>Discord:</strong> username#0000</p>
+    <p><strong>Telegram:</strong> <a href="https://t.me/yourname">@Mair141</a></p>
+    <p><strong>E-mail:</strong> <a href="mailto:your@email.com">yashzikpsih@gmail.com</a></p>
     <p style="margin-top:16px; color:var(--muted); font-size:14px;">
       Для записи свяжитесь любым удобным способом. После согласования даты и времени будет выслана ссылка на оплату.
     </p>
@@ -136,10 +135,10 @@
   <footer>
     <div class="legal">
       <strong>Юридическая информация</strong><br>
-      Исполнитель: <em>[ФИО или ИП]</em><br>
+      Исполнитель: <em>Мальцев Василий Александрович</em><br>
       Статус: самозанятый, плательщик налога на профессиональный доход (НПД)<br>
-      ИНН: <em>000000000000</em><br>
-      Контакт для связи: указан выше
+      ИНН: <em>592006950765</em><br>
+      Контакт для связи: 89223863956
     </div>
     
     <p style="margin-top:20px;">
